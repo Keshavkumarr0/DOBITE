@@ -24,11 +24,14 @@ cd DOBITE
 
   2️⃣ Install Dependencies
 
+
     npm install
 
   3️⃣ Run the Development Server
 
      npm run dev
+
+
      Open http://localhost:3000 to view it in the browser.
 
    🚀 Deployment
